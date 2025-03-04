@@ -1,12 +1,8 @@
 #ifndef GAME_H
 #define GAME_H
 
-#include <QObject>
-#include <QList>
-#include <QPoint>
-
-enum PlayerColor{WHITE, BLACK};// цвет стороны
-enum PieceType{PAWN, KNIGHT, BISHOP, ROOK, QUEEN, KING};//тип фигуры
+enum PlayerColor{WHITE, BLACK};
+enum PieceType{PAWN, KNIGHT, BISHOP, ROOK, QUEEN, KING};
 
 const int SZ = 8 ;
 
