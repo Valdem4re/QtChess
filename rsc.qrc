@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Textures/Pieces/x52/Black_Bishop.png</file>
+        <file>Textures/Pieces/x52/Black_King.png</file>
+        <file>Textures/Pieces/x52/Black_Knight.png</file>
+        <file>Textures/Pieces/x52/Black_Pawn.png</file>
+        <file>Textures/Pieces/x52/Black_Queen.png</file>
+        <file>Textures/Pieces/x52/Black_Rock.png</file>
+        <file>Textures/Pieces/x52/White_Bishop.png</file>
+        <file>Textures/Pieces/x52/White_King.png</file>
+        <file>Textures/Pieces/x52/White_Knight.png</file>
+        <file>Textures/Pieces/x52/White_Pawn.png</file>
+        <file>Textures/Pieces/x52/White_Queen.png</file>
+        <file>Textures/Pieces/x52/White_Rock.png</file>
+        <file>Textures/Boards/board_black.png</file>
+        <file>Textures/Boards/board_white.png</file>
+        <file>Textures/Boards/BrownBoard(black_side)_504x504.jpg</file>
+        <file>Textures/Boards/BrownBoard(black_side)_640x640.jpg</file>
+        <file>Textures/Boards/BrownBoard(white_side)_504x504.jpg</file>
+        <file>Textures/Boards/BrownBoard(white_side)_640x640.jpg</file>
+    </qresource>
+</RCC>
